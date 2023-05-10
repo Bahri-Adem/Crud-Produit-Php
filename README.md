@@ -10,4 +10,5 @@ Crud Page:
 
 Edit Product Pgae:
 
-![Uploading Edit_Page.PNG…]()
+![EditPage](https://github.com/Bahri-Adem/Crud-Produit-Php/assets/103949052/3a2d7ea6-ea0c-4cb5-86ad-780e585c145b)
+
